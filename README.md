@@ -1,8 +1,6 @@
-# Agi Blog — Testes Web (Playwright + Java)
+# Blog Corporativo — Testes Web (Playwright + Java)
 
-Automação de testes da funcionalidade de **busca** do
-[blog do Agibank](https://blog.agibank.com.br), desenvolvida como parte de um
-desafio técnico de QA.
+Automação de testes da funcionalidade de **busca** do blog de uma instituição financeira, desenvolvida como estudo prático de automação web.
 
 ## Stack
 
